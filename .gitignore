@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+backend/venv/
+.env
+backend/.env
+
+# Node / Ionic
+node_modules/
+dist/
+www/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
