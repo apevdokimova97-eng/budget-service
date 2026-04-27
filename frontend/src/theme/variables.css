@@ -1,0 +1,16 @@
+/* For information on how to create your own theme, please refer to:
+http://ionicframework.com/docs/theming/ */
+ion-input,
+ion-select {
+  --border-radius: 14px;
+  --background: #ffffff;
+}
+
+ion-button {
+  text-transform: none;
+  font-weight: 600;
+}
+
+h1, h2 {
+  font-weight: 700;
+}
